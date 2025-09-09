@@ -1,2 +1,5 @@
-walksleepeatplay
+walk
+sleep
+eat
+play
 fix
